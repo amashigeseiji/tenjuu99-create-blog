@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amashigeseiji/tenjuu99-blog.git"
+    "url": "git+https://github.com/amashigeseiji/tenjuu99-create-blog.git"
   },
   "bin": {
     "create-blog": "create-blog.js"
@@ -16,7 +16,10 @@
   "author": "AmashigeSeiji",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/amashigeseiji/tenjuu99-blog/issues"
+    "url": "https://github.com/amashigeseiji/tenjuu99-create-blog/issues"
   },
-  "homepage": "https://github.com/amashigeseiji/tenjuu99-blog#readme"
+  "homepage": "https://github.com/amashigeseiji/tenjuu99-create-blog#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
