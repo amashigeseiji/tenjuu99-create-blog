@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/amashigeseiji/tenjuu99-create-blog#readme",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   }
 }
